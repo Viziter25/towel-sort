@@ -11,3 +11,4 @@ if (!semver.satisfies(process.version, nodeVersion)) {
     `)
   );
 }
+
